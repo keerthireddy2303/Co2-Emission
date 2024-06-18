@@ -1,0 +1,41 @@
+DATE ,TIME,Area,LOCATION,STATUS,AQI US,PM 2.5,PM 10,SO2,Ozone,CO,NO2,Primary pollutant,TEMPERATURE,HUMIDITY
+25-05-2024,10:00:00 AM,Bollaram Industrial Area,"Hyderabad 
+",Poor,137,63,90,25,34,35,26,PM10,33,49
+25-05-2024,10:00:00 AM,Central University,"Hyderabad 
+",Moderate,73,38,65,7,4,15,24,PM10,34,47
+25-05-2024,10:00:00 AM,ECIL Kapra,"Hyderabad 
+",Moderate,79,51,79,11,31,25,64,PM10,32,52
+25-05-2024,10:00:00 AM,ICRISAT Patancheru,"Hyderabad 
+",Moderate,62,41,56,22,48,36,16,PM10,32,50
+25-05-2024,10:00:00 AM,New Malakpet,"Hyderabad 
+",Moderate,86,57,86,21,32,13,23,PM10,34,45
+25-05-2024,10:00:00 AM,Ramachandrapuram,"Hyderabad 
+",Moderate,76,41,76,11,18,27,11,PM10,33,48
+25-05-2024,10:00:00 AM,Sanathnagar,"Hyderabad 
+",Moderate,88,68,50,9,16,35,29,PM2.5,33,48
+25-05-2024,10:00:00 AM,Somajiguda,"Hyderabad 
+",Moderate,94,63,70,17,23,27,26,PM10,33,48
+25-05-2024,10:00:00 AM,Zoo Park,"Hyderabad 
+",Good,41,41,41,3,19,29,17,PM2.5,32,49
+25-05-2024,10:00:00 AM,Nacharam,"Hyderabad 
+",Moderate,70,54,70,34,18,36,18,PM10,32,50
+25-05-2024,10:00:00 AM,Vittal Rao Nagar,"Hyderabad 
+",Moderate,61,17,50,20,37,10,14,PM10,33,49
+25-05-2024,10:00:00 AM,Shirdi Sai Nagar,"Hyderabad 
+",Moderate,70,21,50,20,45,32,16,PM10,33,49
+25-05-2024,10:00:00 AM,Saidabad,"Hyderabad 
+",Moderate,68,20,46,5,22,30,12,PM10,32,52
+25-05-2024,10:00:00 AM,Puppalaguda,"Hyderabad 
+",Moderate,93,32,68,18,23,27,25,PM10,33,49
+25-05-2024,10:00:00 AM,Manikonda,"Hyderabad 
+",Moderate,87,29,68,5,15,25,35,PM10,33,49
+25-05-2024,10:00:00 AM,Madhapur,"Hyderabad 
+",Moderate,80,26,64,8,14,22,23,PM10,32,52
+25-05-2024,10:00:00 AM,KPHB,"Hyderabad 
+",Moderate,63,18,37,15,7,32,12,PM10,32,52
+25-05-2024,10:00:00 AM,Kokapet,"Hyderabad 
+",Poor,161,74,138,30,55,40,76,PM10,32,50
+25-05-2024,10:00:00 AM,Hyderabad Us Consulate,"Hyderabad 
+",Moderate,84,28,61,25,30,21,33,PM10,32,48
+25-05-2024,10:00:00 AM,Banjara Hills,"Hyderabad 
+",Moderate,74,23,50,20,16,35,12,PM10,32,52
